@@ -1,0 +1,13 @@
+mat-toolbar{
+    background-color:#2E7D32;
+}
+.spacer {
+    flex: 1 1 auto;
+  }
+.mat-raised-button{
+    color:#ffffff;
+    background-color: #09640c;
+}
+.logo{
+    cursor: pointer;
+}
